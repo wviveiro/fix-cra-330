@@ -1,6 +1,6 @@
 {
   "name": "fix-cra-330",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "public": true,
   "main": "bin/fixcra330.js",
