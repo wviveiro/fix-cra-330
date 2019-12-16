@@ -3,5 +3,5 @@
 Run on the project's folder
 
 ``
-npx fix-cra-300
+npx fix-cra-330
 ``
