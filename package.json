@@ -1,0 +1,15 @@
+{
+  "name": "fix-cra-330",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fix-cra-330": "./bin/fixcra330.js"
+  },
+  "keywords": [],
+  "author": "Wellington Viveiro <wviveiro@gmail.com>",
+  "license": "ISC"
+}
